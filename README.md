@@ -4,3 +4,6 @@ The main job is to extract financial data like historical share price and quarte
 
 TESLA STOCK GRAPH
 ![newplot (2)](https://user-images.githubusercontent.com/79985347/169146165-884fc801-79ed-4a6d-8ae9-47d545fb625c.png)
+
+GAMESTOP STOCK GRAPH
+
